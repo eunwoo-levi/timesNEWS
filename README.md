@@ -1,4 +1,4 @@
-**Newyork Times News**
+**- The Newyork Times News -**
 https://eunwoo-levi.netlify.app
 
 
