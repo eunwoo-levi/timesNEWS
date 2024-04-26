@@ -1,4 +1,4 @@
-<website>
+**Newyork Times News**
 https://eunwoo-levi.netlify.app
 
 
